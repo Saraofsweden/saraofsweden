@@ -1,4 +1,8 @@
-### Hi there 👋
+### Anyong haseyo 안녕하세요  👋
+---  
+- Student vid Mittuniversitetet  
+- Webbutveckling  
+
 
 <!--
 **Saraofsweden/saraofsweden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
